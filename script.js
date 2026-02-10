@@ -4,6 +4,8 @@ const apiKey = "116a94b7a973943264656903c11caf54";   // Replace with your OpenWe
 
 //code has modified and uploaded to git from a branch
 
+// other comments after adding doc file
+
 function setUnit(u) {
   unit = u;
 }
