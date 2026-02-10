@@ -1,6 +1,9 @@
 let unit = "metric";
 const apiKey = "116a94b7a973943264656903c11caf54";   // Replace with your OpenWeather API key
 
+
+//code has modified and uploaded to git from a branch
+
 function setUnit(u) {
   unit = u;
 }
